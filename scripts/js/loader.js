@@ -47,7 +47,7 @@ import {GLTFLoader} from "./three/examples/jsm/loaders/GLTFLoader.js";
 
 let loader = new GLTFLoader()
 loader.load(
-    "../assets/models/museum3.glb",
+    "../show-your-talent-2/assets/models/museum3.glb",
     (gltf)=>{
         var scene = document.querySelector('a-scene').object3D;
         var model = gltf.scene;
