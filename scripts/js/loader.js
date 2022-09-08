@@ -59,10 +59,9 @@ loader.load(
         let percentage = Math.trunc(fraction);
         document.getElementById("status").innerHTML = percentage+"% loaded";
         document.getElementById("progress").style.width = percentage+"%";
-        if(percentage==100){
+        if(percentage===100||percentage>100){
             setTimeout(()=>{
                 document.getElementById("preloader").style.display="none";
-                alert("Caution: The performance of this application may be varied due to internet speed and your device. Please keep your patience!")
             },5000)
         }
     }
