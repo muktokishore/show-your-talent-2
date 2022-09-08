@@ -1,0 +1,35 @@
+          <!-- <a-entity id="images">
+            <a-entity position="-14.88 2 11" id="image1"></a-entity>
+            <a-entity position="-14.88 2 5" id="image2"></a-entity>
+            <a-entity position="-14.88 2 0" id="image3"></a-entity>
+            <a-entity position="-14.88 2 -5" id="image4"></a-entity>
+            <a-entity position="-14.88 2 -11" id="image5"></a-entity>
+            <a-entity position="-11 2 -14.88" id="image6"></a-entity>
+            <a-entity position="-5 2 -14.88" id="image7"></a-entity>
+            <a-entity position="0 2 -14.88" id="image8"></a-entity>
+            <a-entity position="5 2 -14.88" id="image9"></a-entity>
+            <a-entity position="11 2 -14.88" id="image10"></a-entity>
+            <a-entity position="14.88 2 11" id="image11"></a-entity>
+            <a-entity position="14.88 2 5" id="image12"></a-entity>
+            <a-entity position="14.88 2 0" id="image13"></a-entity>
+            <a-entity position="14.88 2 -5" id="image14"></a-entity>
+            <a-entity position="14.88 2 -11" id="image15"></a-entity>
+          </a-entity> -->
+
+          <!-- <a-entity id="spotLights">
+            <a-entity light="type: spot; target: #image1; color: #fff; intensity: 1; angle: 30" position="-12.70154 4.06635 11"></a-entity>
+            <a-entity light="type: spot; target: #image2; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="-12.70154 4.06635 5"></a-entity>
+            <a-entity light="type: spot; target: #image3; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="-12.70154 4.06635 0"></a-entity>
+            <a-entity light="type: spot; target: #image4; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="-12.70154 4.06635 -5"></a-entity>
+            <a-entity light="type: spot; target: #image5; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="-12.70154 4.06635 -11"></a-entity>
+            <a-entity light="type: spot; target: #image6; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="-11 4.06635 -12.70154"></a-entity>
+            <a-entity light="type: spot; target: #image7; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="-5 4.06635 -12.70154"></a-entity>
+            <a-entity light="type: spot; target: #image8; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="0 4.06635 -12.70154"></a-entity>
+            <a-entity light="type: spot; target: #image9; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="5 4.06635 -12.70154"></a-entity>
+            <a-entity light="type: spot; target: #image10; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="11 4.06635 -12.70154"></a-entity>
+            <a-entity light="type: spot; target: #image11; color: #fff; intensity: 1; angle: 30" position="12.70154 4.06635 11"></a-entity>
+            <a-entity light="type: spot; target: #image12; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="12.70154 4.06635 5"></a-entity>
+            <a-entity light="type: spot; target: #image13; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="12.70154 4.06635 0"></a-entity>
+            <a-entity light="type: spot; target: #image14; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="12.70154 4.06635 -5"></a-entity>
+            <a-entity light="type: spot; target: #image15; color: #fff; intensity: 1; angle: 30; decay: 1.75" position="12.70154 4.06635 -11"></a-entity>
+          </a-entity> -->

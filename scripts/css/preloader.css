@@ -1,0 +1,14 @@
+#preloader{
+    z-index: 10;
+    background: #f00;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#panel{
+    width: 200px;
+    height: 20px;
+    border: 1px solid red;
+}
