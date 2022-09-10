@@ -57,9 +57,10 @@ loader.load(
     (model)=>{
         let fraction = model.loaded/model.total*100;
         let percentage = Math.trunc(fraction);
-        document.getElementById("status").innerHTML = percentage+"% loaded";
+        document.getElementById("status").innerHTML = "Assets are loading!<br>"+percentage+"% loaded &#128571;";
         document.getElementById("progress").style.width = percentage+"%";
         if(percentage===100||percentage>100){
+            document.getElementById("status").innerHTML = "Assets are loaded!&#129409; Your browser is rendering<br>Please wait a FEW SECONDS!";
             setTimeout(()=>{
                 document.getElementById("preloader").style.display="none";
             },5000)
