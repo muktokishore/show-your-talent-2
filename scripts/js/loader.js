@@ -61,6 +61,7 @@ loader.load(
         document.getElementById("progress").style.width = percentage+"%";
         if(percentage===100||percentage>100){
             document.getElementById("status").innerHTML = "Assets are loaded!&#129409; Your browser is rendering<br>Please wait a FEW SECONDS!";
+            document.getElementById("progress").style.width = "100%";
             setTimeout(()=>{
                 document.getElementById("preloader").style.display="none";
             },5000)
